@@ -7,7 +7,7 @@ Starting with this lab, each attendee will be assigned an ID number (01 - 30) by
 
 These instructions document how to setup MQ within Cloud Pak for Integration which is accessible from within the OpenShift Cluster. The instructions have been created using a a Red Hat OpenShift environment deployed on bare metal servers on IBM Cloud however the process should be similar on other environments.
 
-### Important points
+## Important points
 
 The lab guide assumes you are using the RHEL Virtual Desktop Image (VDI) VM from the IBM Technology Zone. If you are using another platform, you can download the necessary artifacts from the github repo. The instructor will provide directions.
 
